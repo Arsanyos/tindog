@@ -37,6 +37,10 @@ h1,h2,h3,h4,h5,h6{
    .container-fluid{
      padding:7% 15%;
    }
+
+   .container-fluid .row{
+     text-align: center;
+   }
   /* sections */
   .colored-section{
     background-color:#ff4c68;
@@ -182,4 +186,12 @@ h1,h2,h3,h4,h5,h6{
 
 .icon{
   padding:2%;
+}
+
+#carouselExampleControls{
+  text-align: center;
+}
+
+.white-section .row{
+  text-align:center;
 }
